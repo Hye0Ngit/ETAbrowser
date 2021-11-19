@@ -1,1 +1,1 @@
-[Windows 64bit](https://hye0ngit.github.com/ETAbrowser/EtaTw/EtaTwInstaller1.0.0.exe
+[Windows 64bit](https://hye0ngit.github.io/ETAbrowser/EtaTw/EtaTwInstaller1.0.0.exe
